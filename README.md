@@ -39,7 +39,7 @@ Hack responsibly.
 If anyone finds this code useful I can port it to other linux binaries. This rootkit is easy to integrate to any other GNU/Linux C/C++ program.
 
 # LEGAL NOTICE
-The creators of the orginal "Dash" Software and their affiliates do not support or endorse the project titled "dash-shell-rootkit". The use of the Software in the project is solely at the discretion of the project's creators and contributors. See the COPING file for the previous "Dash" license.
+The creators of the orginal "Dash" Software and their affiliates do not support or endorse the project titled "dash-shell-rootkit". The use of the Software in the project is solely at the discretion of this project's creators and contributors. See the COPYING file for the previous "Dash" license.
 
 
 If you find this code useful, please leave a star ⭐.
