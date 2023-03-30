@@ -31,7 +31,7 @@ The binary is located in `./src/dash`.
 
 
 # Disclaimer
-This project was developed for security research, my own curiosity, and ethical hacking, educational purposes. It was intended to be used responsibly. Do not use this code for anything illegal in your jurisdiction. LICENSE TERMS APPLY.
+This project was developed for security research, my own curiosity, ethical hacking, and educational purposes. It was intended to be used responsibly. Do not use this code for anything illegal in your jurisdiction. LICENSE TERMS APPLY.
 
 Hack responsibly.
 
