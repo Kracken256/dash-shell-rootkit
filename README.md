@@ -5,7 +5,7 @@ The purpose of this is to demonstrate what security risks there are when someone
 # WARNING
 THIS CODE IS MALWARE!!! IT IS A LINUX TROJAN BACKDOOR! IT WILL OPEN A BACKDOOR INTO YOUR COMPUTER SYSTEM AND WILL ALLOW UNAUTHORIZED ACCESS TO IT. EXERCISE EXTREME CAUTION AND USE SECURITY BEST PRACTICES FOR EDUCATION USE. 
 
-# Possiple attack
+# Possible attack
 An attack might look like this: Enter rescue mode and pop a root shell without a password. Replace the /bin/sh binary with this rootkit. The users probably won't know. The shell will still be 100% functional. 
 Use this for persistence so the next time an authorized user accesses their account (with the 'sh' shell), you will receive a reverse shell that persists (in a new process) even after the terminal is closed.
 
@@ -31,15 +31,15 @@ The binary is located in `./src/dash`.
 
 
 # Disclaimer
-This project was developed for security research, my own curiosity, ethical hacking, and educational purposes. It was intended to be used responsibly. Do not use this code for anything illegal in your jurisdiction. LICENSE TERMS APPLY.
+This project was developed for security research, curiosity, ethical hacking, and educational purposes. It was intended to be used responsibly. Do not use this code for anything illegal in your jurisdiction. LICENSE TERMS APPLY.
 
 Hack responsibly.
 
 # Requests
-If anyone finds this code useful I can port it to other linux binaries. This rootkit is easy to integrate to any other GNU/Linux C/C++ program.
+I can port this code to other Linux binaries if anyone finds it useful. This rootkit is easily integrated into any other GNU/Linux C/C++ program.
 
 # LEGAL NOTICE
-The creators of the orginal "Dash" Software and their affiliates do not support or endorse the project titled "dash-shell-rootkit". The use of the Software in the project is solely at the discretion of this project's creators and contributors. See the COPYING file for the previous "Dash" license.
+The creators of the original "Dash" Software and their affiliates do not support or endorse the "dash-shell-rootkit " project. See the COPYING file for the previous "Dash" license.
 
 
 If you find this code useful, please leave a star ⭐.
