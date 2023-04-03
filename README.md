@@ -21,8 +21,6 @@ Run the following commands.
 ./autogen.sh
 ./configure
 make
-
-# Optional
 strip ./src/dash
 
 # DO NOT RUN `make install` OR THE MALWARE WILL INSTALL ON YOUR COMPUTER!!!
